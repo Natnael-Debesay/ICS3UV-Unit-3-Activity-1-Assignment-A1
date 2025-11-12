@@ -17,7 +17,7 @@ func main() {
 	// INPUT - none
 
 	// PROCESS 
-	// calulate the sum
+	// calulate the area
 	answer := RADIUS * RADIUS * PI
 
 	// OUTPUT
